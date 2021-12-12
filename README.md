@@ -1,3 +1,5 @@
+![Banksy](https://github.com/BanksyFarm/avax-farming/blob/main/Bansky%20Docs%20(7).png)
+
 # Banksy Farm Avalanche Farming Contracts
 
 Banksy Farm is a Financial protocol that helps you win rewards. Banksy Farm is The New Generation Multi-Network Yield Farming enhanced by NFTs.
